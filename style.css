@@ -1,0 +1,146 @@
+*{-webkit-box-sizing:border-box;
+-mozbox-sizing:border-box;
+box-sizing:border-box;
+}
+
+body{ background:#003153 ;  perspective:1330px;}
+
+ .po{background-image:url('noch-ozero-luna-nebo-zvezdy.jpg');
+ height: 570px ;
+  color:Turquoise ;}
+.po{ transition:all 1.3s ease-in; 
+ font-size: 60px ;
+ font-style:inherit  ;
+ margin:-6px;
+ text-align:center;
+  direction:ltr;
+  padding: 0px 20px 0px 40px;}
+   
+.po:hover{transform: scale(1.05); }
+  
+  .oo{
+   text-decoration:none;
+   margin:0px  20px 0px;
+   padding: 50px;
+  }
+  
+  
+ h1{color:Turquoise ;
+ font-size: 60px ;
+ font-style:inherit  ;
+margin: -10px;
+padding:30px;
+ text-align:center;
+  direction:rtl;}
+
+.pp{
+ line-height:25px;
+}
+.ll{
+ font-size:20px;
+         margin-bottom:10px  ;
+         background:	#003153;  box-shadow:-5px -5px 8px blue;
+}
+
+ p{ font-size :25px;
+ color:#FFFDD0;
+ margin-bottom:10px;
+ text-align:center;
+ direction: ltr;   }
+ 
+ .pe{
+ text-transform:none;
+ color: #F5F5DC;
+  padding:-2px ; 
+ }
+
+ 
+ div{ font-size:20px;
+         margin-bottom:10px  ;
+       
+    }
+      
+      
+      a{font-size:25px ; color:#cfd8dc;  text-decoration:none;text-align: center;}
+      a:hover{
+       color:#f44336;
+       font-weight:bold;
+      transition:all 0.3s ease-in-out;
+      transform:scale3d(0,0,3) ;
+      
+      }
+      blockquote{ font-size:20px;
+                  padding:1px;
+                  margin:3px ;
+                  background:#003153;
+                  width:100pxpx
+                  border:1px;}
+                  
+  .bold{font-size:30px ; color:#90a4ae;}
+               
+  .tybe{font-size:20px;
+         margin:2px  ;
+         padding:-3px;
+         background:	#003153;
+        height: 23px;  box-shadow:-5px -5px 9px blue;
+         }
+         
+         tr{  font-size:20px;
+        text-align: center;
+         color: #FFF5EE;
+         font-style:normal;
+         background:	#848482;
+                height: 60px;
+                 border:2px; }
+      
+      caption  {font-size:40px; color:#FFF5EE;}
+      fieldset {background:#00bbbb ;border-radius:26px; }
+      table    {color:#FFF0F5;  text-align: center;width: 700px;margin:0px 0px 0px 320px ;   box-shadow:-5px -5px 8px blue;}
+      label    {color:#FFF5EE;font-size:25px;}
+           
+       input   {padding:7px  ;color:black; }
+       .xx{width: 234px;height: 35px;}
+       
+       legend{border-radius: 20px;
+              color:#2F4F4F ;
+              font-size:30px ;
+              padding:10px;
+              border:2px ;
+              background:#EFEFEF;}
+             
+              
+              .ttt{background-image:url('nn.jpg');
+             display:block;width: 600px;
+              transition:all .5s ease-in-out;
+              margin:40px auto; 
+              }
+              
+              img{ display:block;width: 600px;
+              transition:all .5s ease-in-out;
+              margin:40px auto;}
+          img:hover{
+          -webkit-transform:translateZ(-60px);
+          transform:translateZ(-60px);}
+          
+          .sss{width: 400px; height: 400px;
+          margin:50px auto;background-color:blue;
+          transition:all .5s ease-in-out;text-align: center; padding:155px;}
+          div.sss:hover{transform:rotate(360deg); transform-origin: 50% 90%; }
+          
+         .fat{width:500px ; height:500px;
+         margin:160px auto;
+         position:relative;
+         transition:oll 1s ease-in-out;
+         transform-style:preserve-3d}
+         .fat:hover{transform:rotateY(180deg)}
+          .fat > div{position:absolute; width:100%;height:100%; color:#00bbbb;
+          text-align:center;font-size: 30px;left: 0px;top:0px;line-height: 200px; }
+       .aaaa{ background: red; z-index: 2;}
+       .ssss{ background: blue; transform: rotateY(180deg)}
+    .vvv{
+     width: 240px;
+     height: 200px; line-height: 160px; text-align: center; background-color: #00bcd4; padding: 13px ;color:#FFF;margin: 30px auto;
+     transition:all 0.4s ease-in-out; opacity: 3;border-radius: 13px;
+    }
+    div.sss{width: 300px; background-color:#eceff1; }
+   .vvv:hover{ opacity: 1.2; border-radius: 50% ; box-shadow: inset 0 0 0 20px #eceff1;   justify-content: flex-start; }
